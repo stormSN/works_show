@@ -66,7 +66,7 @@ window.onload=function(){
     play();
     var getTime=document.getElementById("gettime");
     var allSpan = getTime.getElementsByTagName("span");
-    var futureTime = new Date(2019,4,31,24,0,0);
+    var futureTime = new Date(2018,12,31,24,0,0);
         setInterval(function (){
             var now = new Date();
             var t = (futureTime.getTime() - now.getTime())/1000;
