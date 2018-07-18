@@ -38,9 +38,9 @@ em{font-style:normal}
 .reg{background: #6bc30d;color: #fff}
 .banner{display:inline-block;width:100%;background-size:cover;position: relative}
 .banner img{width:100%;margin:auto;height:200px;}
-.banner .center{width:400px;position: absolute;top:40px;left:35%;z-index: 2}
+.banner .center{position: absolute;top:40px;left:35%;z-index: 2}
 .banner span{color: #729cb7}
-.banner .time{font-size:48px;display: inline-block;width:25px;color: #00ffea}
+.banner .time{font-size:48px;display: inline-block;color: #00ffea;letter-spacing: 2px;}
 .banner .xian{font-size: 45px;color: #385b72}
 .banner strong{color: #729cb7}
 .center .adv{font-size: 13px;text-align: center;color: #729cb7;display: block;margin-bottom: 20px;}
